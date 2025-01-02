@@ -18,7 +18,7 @@
 	"th155/data/font/font_texture_outline16_600.bmp": 2583779853,
 	"th155/data/font/font_texture_outline24.bmp": 377399841,
 	"th155/data/font/spell_font.bmp": 2496733843,
-	"th155/data/font/talk_font.bmp": 202960401,
+	"th155/data/font/talk_font.bmp": 2568296182,
 	"th155/data/script/talk/talk.v1.10.nut.jdiff": 797945099,
 	"th155/data/script/talk/talk.v1.10_steam.nut.jdiff": 797945099,
 	"th155/data/script/talk/talk.v1.19_beta3.nut.jdiff": 797945099,
