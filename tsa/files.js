@@ -1,5 +1,4 @@
 {
-	".http_cache_data": null,
 	"Touhou_Simhei.ttf": 1482893366,
 	"global.js": 2497292690,
 	"patch.js": 2784247803,
